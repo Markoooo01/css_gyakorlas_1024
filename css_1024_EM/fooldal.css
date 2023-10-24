@@ -1,0 +1,31 @@
+.szin{
+    background-color: bisque;
+}
+
+main{
+    background-color: aqua;
+}
+
+body{
+    background-color: aqua;
+}
+
+#betolas{
+    margin-left: 10px;
+    border-top: 1px dotted black;
+    border-bottom: 1px dashed blue;
+    border-left: 1px solid yellow;
+    border-right: 1px double darkgreen;
+}
+
+#harmadik{
+    border: 3px dashed red;
+    padding: 15px;
+}
+
+#negyedik{
+    background-image: url('kep2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;        
+}
